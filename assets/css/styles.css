@@ -1,5 +1,5 @@
-.btn-secondary {
-  margin: 5% 0;
+.btn-primary {
+  margin-left: 4px;
 }
 
 .navbar-brand {
@@ -17,4 +17,7 @@
 
 .forecast-date {
   font-size: 18px;
+}
+.btn-secondary {
+  margin: 3% 0;
 }
